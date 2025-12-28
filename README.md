@@ -9,7 +9,7 @@ Relational database modeling celestial bodies using PostgreSQL.
 - moon
 - planet_atmospheres
 
-## 🔗 Relationships
+##  Relationships
 - galaxy 1:N star
 - star 1:N planet
 - planet 1:N moon
